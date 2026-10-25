@@ -1,0 +1,29 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAwYzAwMGEwMDA4MDgwODA4MDgwODA4MDgwODA4MDIwNzA4MDgwODAxMDEwMTA4MDgwODA4MDMwNDA4MDgwODAxMDgwMTA4MDgwODA4MDMwNDAxMDEwMTAxMDEwMTA4MDEwMTAxMDMwNDA4MDgwODAxMDgwODA4MDEwODAxMDMwNDA4MDEwMTAxMDEwMTAxMDEwODAxMDMwNDA4MDEwODAxMDgwODA4MDgwODAxMDMwNDA4MDEwMTAxMDgwMTAxMDEwMTAxMDMwNDA4MDgwODA4MDgwMTA4MDgwODA4MDMwNDA4MDgwODA4MDgwMTA4MDgwODA4MDUwNjAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tilePath5",
+            "sprites.dungeon.darkGroundNorthWest0",
+            "sprites.dungeon.darkGroundWest",
+            "sprites.dungeon.darkGroundEast",
+            "sprites.dungeon.darkGroundSouthWest0",
+            "sprites.dungeon.darkGroundSouthEast0",
+            "sprites.dungeon.darkGroundNorthEast0",
+            "sprites.castle.tileDarkGrass3"
+        ],
+        "displayName": "level"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
